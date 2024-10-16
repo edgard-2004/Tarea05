@@ -1,0 +1,51 @@
+.playstation-title[b-pkj8yaxs5w] {
+    font-family: 'Roboto', sans-serif;
+    color: #0070D1; 
+}
+
+.btn-playstation[b-pkj8yaxs5w] {
+    background-color: #0070D1;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn-playstation:hover[b-pkj8yaxs5w] {
+    background-color: #0058a3;
+}
+
+.playstation-table[b-pkj8yaxs5w] {
+    border-color: #333;
+    color: white;
+    background-color: #1b1b1b;
+}
+
+.thead-playstation[b-pkj8yaxs5w] {
+    background-color: #0070D1;
+    color: white;
+}
+
+.playstation-table th[b-pkj8yaxs5w],
+.playstation-table td[b-pkj8yaxs5w] {
+    text-align: center;
+    padding: 15px;
+}
+
+.btn-playstation-action[b-pkj8yaxs5w] {
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
+.playstation-table tr:hover[b-pkj8yaxs5w] {
+    background-color: #0070D1;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .playstation-title[b-pkj8yaxs5w] {
+        font-size: 1.5rem;
+    }
+}
